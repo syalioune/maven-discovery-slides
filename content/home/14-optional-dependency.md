@@ -16,6 +16,14 @@ weight = 52
 
 ---
 
+# That's real life folks !
+
+<img src="https://i.giphy.com/media/SwmYRaqcowXczDPAxP/giphy.webp" alt="friends-real-life"/>
+
+**Not all of us works on new shiny bright projects designed by _Martin FOWLER_ 👴🏿 !**
+
+---
+
 # Classic solution with exclusions
 
 ```xml{5-10,12-16}
