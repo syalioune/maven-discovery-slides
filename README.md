@@ -22,3 +22,11 @@ docker run -d -p 1313:1313
 ```
 
 The slides are available at http://localhost:1313
+
+## Build and push image for CI
+
+```shell
+docker build . -f Dockerfile.pages -t syalioune/hugo-with-go:0.0.1
+docker login -u syalioune
+docker push syalioune/hugo-with-go:0.0.1
+```

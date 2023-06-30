@@ -1,0 +1,4 @@
+FROM registry.gitlab.com/pages/hugo@sha256:c111ecf8464f1e855406b996b3683f573a61c40b14c31b6b67de6137e26fbd15
+
+RUN apk add --no-cache --virtual .build-deps go
+

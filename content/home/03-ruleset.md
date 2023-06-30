@@ -4,16 +4,16 @@ weight = 12
 
 # Ruleset
 
-* 👩‍🔬 You should already have a **medium understanding of _Maven_** to follow through
+1. 👩‍🔬 You should **already have a medium understanding of _Maven_** to follow through
 
-* 🧪 **All assets** are **publicly** available in [Gitlab](https://gitlab.com/asy-bzhcamp/maven-discovery) and [Github](https://github.com/syalioune/maven-discovery) repositories
+2. 💪 **Hope you'll learn a thing or two** : your world won't be turned upside down !!
 
-* 🔟 Release versions for presented features are given **whenever possible**
+3. 🕵️ Be open minded and think context : **Knowing it's possible does not mean you have to do it**
 
-* 💱 Alternatives features and/or solutions are presented **whenever relevant**
+4. 🧪 **All assets** are **publicly** available in [Gitlab](https://gitlab.com/asy-bzhcamp) and [Github](https://github.com/syalioune/maven-discovery) repositories
 
-* 🕵️ Be open minded and think context : **Knowing it's possible does not mean you have to do it**
+5. 🔟 Release versions for presented features are given **whenever possible**
 
-* 💪 **Hope you'll learn a thing or two** : your world won't be turned upside down !!
+6. 💱 Alternatives features and/or solutions are presented **whenever relevant**
 
-* 🌐 Slides are in english because...**no reason** !
+7. 🌐 Slides are in english because...**no reason** !

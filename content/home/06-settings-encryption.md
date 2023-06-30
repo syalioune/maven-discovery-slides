@@ -87,7 +87,7 @@ Maven [DefaultSettingsDecrypter](https://github.com/apache/maven/blob/master/mav
 * 🤔 **Alternatives**
     * Managing different `settings.xml` depending on the environment
       * One file shared by developers with `RO` credentials
-      * One file stored in CI boxes containing `RW` credentials
+      * One file stored in CI boxes/environments containing `RW` credentials
 
 
 {{% /section %}}

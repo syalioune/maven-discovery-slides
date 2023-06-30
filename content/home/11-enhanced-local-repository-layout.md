@@ -53,7 +53,7 @@ mvn clean install -Daether.enhancedLocalRepository.split=true \
 
 Results in the following layout
 
-```shell{2,6,7,8,10,11}      
+```shell{1,2,5,6,7,8,9,10,11}      
 ├── local                                                                                                    
 │   └── com                                                                                                  
 │       └──syalioune 

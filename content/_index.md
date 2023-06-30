@@ -18,5 +18,7 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-# Home
+# Rediscover Apache _Maven_ ?
+
+<img src="https://www.gifimages.pics/images/quotes/english/general/you-are-welcome-gif-52650-282338.gif"/>
 
